@@ -77,17 +77,20 @@ Main Process Flow:
 ### Setup
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Cosmic88167/Jarvis_updated-.git
    cd Jarvis-2025-master
    ```
 
 2. Install Python dependencies:
+
    ```bash
    pip install -r requirements.txt
    ```
 
 3. Set up face recognition samples:
+
    - Place face images in `backend/auth/samples/`
    - Run trainer: `python backend/auth/trainer.py`
 
@@ -96,6 +99,7 @@ Main Process Flow:
 ## Usage
 
 1. Run the application:
+
    ```bash
    python run.py
    ```
@@ -166,14 +170,6 @@ Jarvis-2025-master/
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Screenshots
-
-(Add screenshots here if available)
 
 ## Future Enhancements
 
